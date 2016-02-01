@@ -38,6 +38,10 @@ Add below dependency also.
 
     </RelativeLayout>
     
+If you want to make the holder background transparent, set 
+    
+`custom:holderBackgroundColor="#00000000"`
+    
 3)Now you can set an adapter which has no item to your NeverEmptyListView. 
 
 ``` java
